@@ -18,12 +18,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/shellhub/shell/
 
 [Shadowsocks Manager](https://github.com/shellhub/blog/issues/33)
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/shellhub/shell/master/ssmgr/ssmgr.sh && chmod +x ssmgr.sh && ./ssmgr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Wangzhijian1986/shell/master/ssmgr/ssmgr.sh && chmod +x ssmgr.sh && ./ssmgr.sh
 ```
 
 [Gost](https://github.com/shellhub/shell/blob/master/gost-multi.sh)
   ``` bash
-  wget -N --no-check-certificate https://raw.githubusercontent.com/shellhub/shell/master/gost-multi.sh && chmod +x gost-multi.sh && ./gost-multi.sh
+  wget -N --no-check-certificate https://raw.githubusercontent.com/Wangzhijian1986/shell/master/gost-multi.sh && chmod +x gost-multi.sh && ./gost-multi.sh
   ```
 
 ## Donations
